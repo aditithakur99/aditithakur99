@@ -3,7 +3,7 @@
 - 🌱 I’m currently doing Master of Science in Data Analytics Engineering at Northeastern University, Boston. 
 - 💞️ I’m looking to collaborate on data analytics related projects.
 - 📫 How to reach me:
-LinkedIn: linkedin.com/in/aditi-thakur-650623145
+LinkedIn: https://www.linkedin.com/in/aditi-thakur05/
 Instagram: aditi_thakur99
 
 <!---
