@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on data analytics related projects.
 - 📫 How to reach me:
 LinkedIn: https://www.linkedin.com/in/aditi-thakur05/
-Instagram: aditi_thakur99
+
 
 <!---
 aditithakur99/aditithakur99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
